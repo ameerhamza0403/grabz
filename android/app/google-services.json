@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765697026588",
+    "firebase_url": "https://grabz-70cb3.firebaseio.com",
+    "project_id": "grabz-70cb3",
+    "storage_bucket": "grabz-70cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765697026588:android:794fae832e01ce9999cdd9",
+        "android_client_info": {
+          "package_name": "com.grabz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765697026588-kh5h5gqfb44kn496d8tukek82c39gj7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRUCeL3b8sVpGOjBULQf0jCwC1SvboOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765697026588-kh5h5gqfb44kn496d8tukek82c39gj7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
